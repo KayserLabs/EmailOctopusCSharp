@@ -1,0 +1,9 @@
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\bin\Debug\netcoreapp3.1\EmailOctopusCSharp.deps.json
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\bin\Debug\netcoreapp3.1\EmailOctopusCSharp.dll
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\bin\Debug\netcoreapp3.1\EmailOctopusCSharp.pdb
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\obj\Debug\netcoreapp3.1\EmailOctopusCSharp.csprojAssemblyReference.cache
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\obj\Debug\netcoreapp3.1\EmailOctopusCSharp.AssemblyInfoInputs.cache
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\obj\Debug\netcoreapp3.1\EmailOctopusCSharp.AssemblyInfo.cs
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\obj\Debug\netcoreapp3.1\EmailOctopusCSharp.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\obj\Debug\netcoreapp3.1\EmailOctopusCSharp.dll
+C:\Projects\Personal\EmailOctopusCSharp\EmailOctopusCSharp\obj\Debug\netcoreapp3.1\EmailOctopusCSharp.pdb
